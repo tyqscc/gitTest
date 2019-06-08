@@ -1,0 +1,10 @@
+Git is a version control system.
+Git is free software.
+Git is good.
+Git supports branch.
+<<<<<<< HEAD
+This is branch master.
+=======
+This is branch f1.
+
+>>>>>>> f1
